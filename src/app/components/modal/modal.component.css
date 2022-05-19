@@ -1,0 +1,11 @@
+input {
+  width: 100%;
+}
+
+form {
+  border-top: 1px solid rgb(231, 231, 231);
+}
+
+input::placeholder {
+  color: rgb(0, 0, 0);
+}
